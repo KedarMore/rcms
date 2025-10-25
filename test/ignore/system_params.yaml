@@ -1,0 +1,36 @@
+# return_cost = manhatten + robot(queue_i)*feeding_assign_cost
+feeding_assign_cost : 15
+
+# cost for each grid traversal, used by planner
+traversable_cost : 5
+
+# highway_cost = highway_cost_factory*traversal_cost
+highway_cost_factor : 0.8
+
+# similar concept as highway cost
+turn_cost_factor : 1.15
+
+# introduce to use/not-use shortest path within queues (NA)
+use_queue_logic: False
+
+# max robots to send at a given dump location at once
+dump_num: 2
+
+# max time before system throws an error between robot-rack/dws dump ack.
+loading_timeout: 30
+unloading_timeout: 60
+
+# charge at which robot goes to charging
+min_charge: 35
+
+# l, w, h, weight: mm, kg
+parcel_max_dimensions: [200, 200, 200, 3]
+
+# safety node: default = True => allows robots in adjacent grids to turn simultaneously. 
+adjacent_robots_onspot_turn_allowed: False
+
+# restrict loading only at feeding grid; default = True
+load_only_at_feeding_location: True
+
+# minimum turn speed of real robots; default = 10 x 0.01 rad/sec
+minimum_turn_speed: 0.01

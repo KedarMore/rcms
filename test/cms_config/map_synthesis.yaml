@@ -1,0 +1,9 @@
+map_synthesis:
+  dump_grids_direction: vertical
+  dump_in_reverse: true
+  grid_size: 0.6
+  height: 32
+  offset: 0.3
+  width: 14
+robots_number: 1
+extra_robots: 1

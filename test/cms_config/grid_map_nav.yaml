@@ -1,0 +1,3154 @@
+grid_map_nav:
+  '500100500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 32
+    type: border
+  '500100500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 31
+    type: border
+  '500100500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 30
+    type: border
+  '500100500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 29
+    type: border
+  '500100500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 28
+    type: border
+  '500100500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 27
+    type: border
+  '500100500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 26
+    type: border
+  '500100500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 25
+    type: border
+  '500100500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 24
+    type: border
+  '500100501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 23
+    type: border
+  '500100501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 22
+    type: border
+  '500100501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 21
+    type: border
+  '500100501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 20
+    type: border
+  '500100501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 19
+    type: border
+  '500100501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 18
+    type: border
+  '500100501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 17
+    type: border
+  '500100501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 16
+    type: border
+  '500100501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 15
+    type: border
+  '500100501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 14
+    type: border
+  '500100502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 13
+    type: border
+  '500100502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 12
+    type: border
+  '500100502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 11
+    type: border
+  '500100502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 10
+    type: border
+  '500100502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 9
+    type: border
+  '500100502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 8
+    type: border
+  '500100502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 7
+    type: border
+  '500100502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 6
+    type: border
+  '500100502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 5
+    type: border
+  '500100502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 4
+    type: border
+  '500100503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 3
+    type: border
+  '500100503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 2
+    type: border
+  '500100503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 1
+    - 1
+    type: border
+  '500200500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 32
+    type: border
+  '500200500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 31
+    type: na
+  '500200500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 30
+    type: na
+  '500200500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 29
+    type: na
+  '500200500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 28
+    type: na
+  '500200500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 27
+    type: na
+  '500200500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 26
+    type: na
+  '500200500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 25
+    type: na
+  '500200500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 24
+    type: na
+  '500200501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 23
+    type: na
+  '500200501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 22
+    type: na
+  '500200501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 21
+    type: na
+  '500200501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 20
+    type: na
+  '500200501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 19
+    type: na
+  '500200501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 18
+    type: na
+  '500200501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 17
+    type: na
+  '500200501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 16
+    type: na
+  '500200501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 15
+    type: na
+  '500200501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 14
+    type: na
+  '500200502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 13
+    type: na
+  '500200502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 12
+    type: na
+  '500200502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 11
+    type: na
+  '500200502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 10
+    type: na
+  '500200502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 9
+    type: na
+  '500200502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 8
+    type: na
+  '500200502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 7
+    type: na
+  '500200502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 6
+    type: na
+  '500200502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 5
+    type: na
+  '500200502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 4
+    type: na
+  '500200503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 3
+    type: na
+  '500200503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 2
+    type: na
+  '500200503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 2
+    - 1
+    type: border
+  '500300500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 32
+    type: border
+  '500300500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 31
+    type: na
+  '500300500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 30
+    type: na
+  '500300500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 29
+    type: na
+  '500300500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 28
+    type: na
+  '500300500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 27
+    type: na
+  '500300500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 26
+    type: na
+  '500300500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 25
+    type: na
+  '500300500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 24
+    type: na
+  '500300501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 23
+    type: na
+  '500300501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 22
+    type: na
+  '500300501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 21
+    type: na
+  '500300501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 20
+    type: na
+  '500300501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 19
+    type: na
+  '500300501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 18
+    type: na
+  '500300501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 17
+    type: na
+  '500300501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 16
+    type: na
+  '500300501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 15
+    type: na
+  '500300501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 14
+    type: na
+  '500300502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 13
+    type: na
+  '500300502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 12
+    type: na
+  '500300502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 11
+    type: na
+  '500300502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 10
+    type: na
+  '500300502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 9
+    type: na
+  '500300502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 8
+    type: na
+  '500300502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 7
+    type: na
+  '500300502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 6
+    type: na
+  '500300502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 5
+    type: na
+  '500300502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 4
+    type: na
+  '500300503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 3
+    type: na
+  '500300503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 2
+    type: na
+  '500300503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 3
+    - 1
+    type: border
+  '500400500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 32
+    type: border
+  '500400500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 31
+    type: na
+  '500400500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 30
+    type: na
+  '500400500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 29
+    type: na
+  '500400500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 28
+    type: na
+  '500400500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 27
+    type: na
+  '500400500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 26
+    type: na
+  '500400500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 25
+    type: na
+  '500400500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 24
+    type: na
+  '500400501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 23
+    type: na
+  '500400501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 22
+    type: na
+  '500400501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 21
+    type: na
+  '500400501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 20
+    type: na
+  '500400501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 19
+    type: na
+  '500400501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 18
+    type: na
+  '500400501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 17
+    type: na
+  '500400501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 16
+    type: na
+  '500400501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 15
+    type: na
+  '500400501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 14
+    type: na
+  '500400502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 13
+    type: na
+  '500400502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 12
+    type: na
+  '500400502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 11
+    type: na
+  '500400502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 10
+    type: na
+  '500400502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 9
+    type: na
+  '500400502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 8
+    type: na
+  '500400502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 7
+    type: na
+  '500400502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 6
+    type: na
+  '500400502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 5
+    type: na
+  '500400502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 4
+    type: na
+  '500400503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 3
+    type: na
+  '500400503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 2
+    type: na
+  '500400503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 4
+    - 1
+    type: border
+  '500500500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 32
+    type: border
+  '500500500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 31
+    type: na
+  '500500500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 30
+    type: na
+  '500500500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 29
+    type: na
+  '500500500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 28
+    type: na
+  '500500500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 27
+    type: na
+  '500500500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 26
+    type: na
+  '500500500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 25
+    type: na
+  '500500500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 24
+    type: na
+  '500500501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 23
+    type: na
+  '500500501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 22
+    type: na
+  '500500501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 21
+    type: na
+  '500500501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 20
+    type: na
+  '500500501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 19
+    type: na
+  '500500501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 18
+    type: na
+  '500500501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 17
+    type: na
+  '500500501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 16
+    type: na
+  '500500501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 15
+    type: na
+  '500500501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 14
+    type: na
+  '500500502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 13
+    type: bins
+  '500500502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 12
+    type: bins
+  '500500502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 11
+    type: bins
+  '500500502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 10
+    type: bins
+  '500500502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 9
+    type: bins
+  '500500502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 8
+    type: na
+  '500500502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 7
+    type: na
+  '500500502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 6
+    type: na
+  '500500502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 5
+    type: na
+  '500500502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 4
+    type: na
+  '500500503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 3
+    type: na
+  '500500503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 2
+    type: na
+  '500500503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 5
+    - 1
+    type: border
+  '500600500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 32
+    type: border
+  '500600500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 31
+    type: na
+  '500600500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 30
+    type: na
+  '500600500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 29
+    type: na
+  '500600500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 28
+    type: na
+  '500600500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 27
+    type: na
+  '500600500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 26
+    type: na
+  '500600500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 25
+    type: na
+  '500600500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 24
+    type: na
+  '500600501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 23
+    type: na
+  '500600501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 22
+    type: na
+  '500600501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 21
+    type: na
+  '500600501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 20
+    type: na
+  '500600501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 19
+    type: na
+  '500600501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 18
+    type: na
+  '500600501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 17
+    type: na
+  '500600501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 16
+    type: na
+  '500600501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 15
+    type: na
+  '500600501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 14
+    type: na
+  '500600502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 13
+    type: bins
+  '500600502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 12
+    type: bins
+  '500600502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 11
+    type: bins
+  '500600502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 10
+    type: bins
+  '500600502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 9
+    type: bins
+  '500600502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 8
+    type: na
+  '500600502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 7
+    type: na
+  '500600502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 6
+    type: na
+  '500600502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 5
+    type: na
+  '500600502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 4
+    type: na
+  '500600503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 3
+    type: na
+  '500600503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 2
+    type: na
+  '500600503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 6
+    - 1
+    type: border
+  '500700500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 32
+    type: border
+  '500700500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 31
+    type: na
+  '500700500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 30
+    type: na
+  '500700500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 29
+    type: na
+  '500700500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 28
+    type: na
+  '500700500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 27
+    type: na
+  '500700500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 26
+    type: na
+  '500700500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 25
+    type: na
+  '500700500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 24
+    type: na
+  '500700501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 23
+    type: na
+  '500700501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 22
+    type: na
+  '500700501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 21
+    type: na
+  '500700501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 20
+    type: na
+  '500700501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 19
+    type: na
+  '500700501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 18
+    type: na
+  '500700501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 17
+    type: na
+  '500700501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 16
+    type: na
+  '500700501800':
+    direction: (0,0,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 15
+    type: system_out
+  '500700501900':
+    direction: (1,2,0,4)
+    obstacle: 0
+    pos:
+    - 7
+    - 14
+    type: traversable
+  '500700502000':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 13
+    rack_1: 3
+    type: dumping
+  '500700502100':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 12
+    rack_1: 1
+    rack_2: 2
+    rack_3: 3
+    type: dumping
+  '500700502200':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 11
+    rack_1: 4
+    rack_2: 5
+    rack_3: 6
+    type: dumping
+  '500700502300':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 10
+    rack_1: 7
+    rack_2: 8
+    rack_3: 9
+    type: dumping
+  '500700502400':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 9
+    rack_1: 10
+    rack_2: 11
+    rack_3: 12
+    type: dumping
+  '500700502500':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 8
+    type: traversable
+  '500700502600':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 7
+    type: traversable
+  '500700502700':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 6
+    type: traversable
+  '500700502800':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 5
+    type: traversable
+  '500700502900':
+    direction: (0,0,3,0)
+    obstacle: 0
+    pos:
+    - 7
+    - 4
+    queue_no: '1'
+    type: queue
+  '500700503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 3
+    type: na
+  '500700503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 2
+    type: na
+  '500700503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 7
+    - 1
+    type: border
+  '500800500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 32
+    type: border
+  '500800500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 31
+    type: na
+  '500800500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 30
+    type: na
+  '500800500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 29
+    type: na
+  '500800500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 28
+    type: na
+  '500800500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 27
+    type: na
+  '500800500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 26
+    type: na
+  '500800500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 25
+    type: na
+  '500800500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 24
+    type: na
+  '500800501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 23
+    type: na
+  '500800501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 22
+    type: na
+  '500800501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 21
+    type: na
+  '500800501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 20
+    type: na
+  '500800501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 19
+    type: na
+  '500800501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 18
+    type: na
+  '500800501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 17
+    type: na
+  '500800501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 16
+    type: na
+  '500800501800':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 15
+    type: charging
+  '500800501900':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 14
+    type: traversable
+  '500800502000':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 13
+    type: traversable
+  '500800502100':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 12
+    type: traversable
+  '500800502200':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 11
+    type: traversable
+  '500800502300':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 10
+    type: traversable
+  '500800502400':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 8
+    - 9
+    type: traversable
+  '500800502500':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 8
+    type: traversable
+  '500800502600':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 7
+    type: traversable
+  '500800502700':
+    direction: (1,0,3,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 6
+    type: traversable
+  '500800502800':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 5
+    type: traversable
+  '500800502900':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 8
+    - 4
+    queue_no: '1'
+    type: feeding
+  '500800503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 3
+    type: na
+  '500800503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 2
+    type: na
+  '500800503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 8
+    - 1
+    type: border
+  '500900500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 32
+    type: border
+  '500900500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 31
+    type: na
+  '500900500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 30
+    type: na
+  '500900500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 29
+    type: na
+  '500900500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 28
+    type: na
+  '500900500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 27
+    type: na
+  '500900500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 26
+    type: na
+  '500900500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 25
+    type: na
+  '500900500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 24
+    type: na
+  '500900501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 23
+    type: na
+  '500900501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 22
+    type: na
+  '500900501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 21
+    type: na
+  '500900501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 20
+    type: na
+  '500900501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 19
+    type: na
+  '500900501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 18
+    type: na
+  '500900501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 17
+    type: na
+  '500900501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 16
+    type: na
+  '500900501800':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 15
+    type: system_in
+  '500900501900':
+    direction: (0,2,0,4)
+    obstacle: 0
+    pos:
+    - 9
+    - 14
+    type: traversable
+  '500900502000':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 13
+    type: traversable
+  '500900502100':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 12
+    type: traversable
+  '500900502200':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 11
+    type: traversable
+  '500900502300':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 10
+    type: traversable
+  '500900502400':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 9
+    type: traversable
+  '500900502500':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 8
+    type: traversable
+  '500900502600':
+    direction: (0,2,0,4)
+    obstacle: 0
+    pos:
+    - 9
+    - 7
+    type: traversable
+  '500900502700':
+    direction: (0,2,3,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 6
+    type: traversable
+  '500900502800':
+    direction: (0,2,0,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 5
+    type: traversable
+  '500900502900':
+    direction: (0,0,3,0)
+    obstacle: 0
+    pos:
+    - 9
+    - 4
+    queue_no: '2'
+    type: queue
+  '500900503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 3
+    type: na
+  '500900503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 2
+    type: na
+  '500900503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 9
+    - 1
+    type: border
+  '501000500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 32
+    type: border
+  '501000500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 31
+    type: na
+  '501000500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 30
+    type: na
+  '501000500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 29
+    type: na
+  '501000500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 28
+    type: na
+  '501000500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 27
+    type: na
+  '501000500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 26
+    type: na
+  '501000500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 25
+    type: na
+  '501000500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 24
+    type: na
+  '501000501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 23
+    type: na
+  '501000501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 22
+    type: na
+  '501000501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 21
+    type: na
+  '501000501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 20
+    type: na
+  '501000501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 19
+    type: na
+  '501000501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 18
+    type: na
+  '501000501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 17
+    type: na
+  '501000501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 16
+    type: na
+  '501000501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 15
+    type: na
+  '501000501900':
+    direction: (0,0,0,4)
+    obstacle: 0
+    pos:
+    - 10
+    - 14
+    type: traversable
+  '501000502000':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 13
+    type: traversable
+  '501000502100':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 12
+    type: traversable
+  '501000502200':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 11
+    type: traversable
+  '501000502300':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 10
+    type: traversable
+  '501000502400':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 9
+    type: traversable
+  '501000502500':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 8
+    type: traversable
+  '501000502600':
+    direction: (1,0,0,4)
+    obstacle: 0
+    pos:
+    - 10
+    - 7
+    type: traversable
+  '501000502700':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 6
+    type: traversable
+  '501000502800':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 5
+    type: traversable
+  '501000502900':
+    direction: (1,0,0,0)
+    obstacle: 0
+    pos:
+    - 10
+    - 4
+    queue_no: '2'
+    type: feeding
+  '501000503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 3
+    type: na
+  '501000503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 2
+    type: na
+  '501000503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 10
+    - 1
+    type: border
+  '501100500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 32
+    type: border
+  '501100500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 31
+    type: na
+  '501100500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 30
+    type: na
+  '501100500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 29
+    type: na
+  '501100500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 28
+    type: na
+  '501100500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 27
+    type: na
+  '501100500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 26
+    type: na
+  '501100500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 25
+    type: na
+  '501100500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 24
+    type: na
+  '501100501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 23
+    type: na
+  '501100501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 22
+    type: na
+  '501100501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 21
+    type: na
+  '501100501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 20
+    type: na
+  '501100501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 19
+    type: na
+  '501100501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 18
+    type: na
+  '501100501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 17
+    type: na
+  '501100501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 16
+    type: na
+  '501100501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 15
+    type: na
+  '501100501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 14
+    type: na
+  '501100502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 13
+    type: na
+  '501100502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 12
+    type: na
+  '501100502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 11
+    type: na
+  '501100502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 10
+    type: na
+  '501100502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 9
+    type: na
+  '501100502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 8
+    type: na
+  '501100502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 7
+    type: na
+  '501100502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 6
+    type: na
+  '501100502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 5
+    type: na
+  '501100502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 4
+    type: na
+  '501100503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 3
+    type: na
+  '501100503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 2
+    type: na
+  '501100503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 11
+    - 1
+    type: border
+  '501200500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 32
+    type: border
+  '501200500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 31
+    type: na
+  '501200500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 30
+    type: na
+  '501200500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 29
+    type: na
+  '501200500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 28
+    type: na
+  '501200500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 27
+    type: na
+  '501200500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 26
+    type: na
+  '501200500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 25
+    type: na
+  '501200500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 24
+    type: na
+  '501200501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 23
+    type: na
+  '501200501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 22
+    type: na
+  '501200501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 21
+    type: na
+  '501200501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 20
+    type: na
+  '501200501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 19
+    type: na
+  '501200501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 18
+    type: na
+  '501200501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 17
+    type: na
+  '501200501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 16
+    type: na
+  '501200501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 15
+    type: na
+  '501200501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 14
+    type: na
+  '501200502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 13
+    type: na
+  '501200502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 12
+    type: na
+  '501200502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 11
+    type: na
+  '501200502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 10
+    type: na
+  '501200502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 9
+    type: na
+  '501200502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 8
+    type: na
+  '501200502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 7
+    type: na
+  '501200502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 6
+    type: na
+  '501200502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 5
+    type: na
+  '501200502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 4
+    type: na
+  '501200503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 3
+    type: na
+  '501200503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 2
+    type: na
+  '501200503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 12
+    - 1
+    type: border
+  '501300500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 32
+    type: border
+  '501300500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 31
+    type: na
+  '501300500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 30
+    type: na
+  '501300500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 29
+    type: na
+  '501300500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 28
+    type: na
+  '501300500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 27
+    type: na
+  '501300500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 26
+    type: na
+  '501300500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 25
+    type: na
+  '501300500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 24
+    type: na
+  '501300501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 23
+    type: na
+  '501300501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 22
+    type: na
+  '501300501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 21
+    type: na
+  '501300501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 20
+    type: na
+  '501300501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 19
+    type: na
+  '501300501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 18
+    type: na
+  '501300501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 17
+    type: na
+  '501300501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 16
+    type: na
+  '501300501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 15
+    type: na
+  '501300501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 14
+    type: na
+  '501300502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 13
+    type: na
+  '501300502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 12
+    type: na
+  '501300502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 11
+    type: na
+  '501300502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 10
+    type: na
+  '501300502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 9
+    type: na
+  '501300502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 8
+    type: na
+  '501300502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 7
+    type: na
+  '501300502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 6
+    type: na
+  '501300502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 5
+    type: na
+  '501300502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 4
+    type: na
+  '501300503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 3
+    type: na
+  '501300503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 2
+    type: na
+  '501300503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 13
+    - 1
+    type: border
+  '501400500100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 32
+    type: border
+  '501400500200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 31
+    type: border
+  '501400500300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 30
+    type: border
+  '501400500400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 29
+    type: border
+  '501400500500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 28
+    type: border
+  '501400500600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 27
+    type: border
+  '501400500700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 26
+    type: border
+  '501400500800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 25
+    type: border
+  '501400500900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 24
+    type: border
+  '501400501000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 23
+    type: border
+  '501400501100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 22
+    type: border
+  '501400501200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 21
+    type: border
+  '501400501300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 20
+    type: border
+  '501400501400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 19
+    type: border
+  '501400501500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 18
+    type: border
+  '501400501600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 17
+    type: border
+  '501400501700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 16
+    type: border
+  '501400501800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 15
+    type: border
+  '501400501900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 14
+    type: border
+  '501400502000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 13
+    type: border
+  '501400502100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 12
+    type: border
+  '501400502200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 11
+    type: border
+  '501400502300':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 10
+    type: border
+  '501400502400':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 9
+    type: border
+  '501400502500':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 8
+    type: border
+  '501400502600':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 7
+    type: border
+  '501400502700':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 6
+    type: border
+  '501400502800':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 5
+    type: border
+  '501400502900':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 4
+    type: border
+  '501400503000':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 3
+    type: border
+  '501400503100':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 2
+    type: border
+  '501400503200':
+    direction: (0,0,0,0)
+    obstacle: 1
+    pos:
+    - 14
+    - 1
+    type: border

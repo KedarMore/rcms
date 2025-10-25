@@ -1,0 +1,7 @@
+rejection_trolleys:
+  bin_48:
+    id: "bin_48" 
+    name: "A013"
+    level: 3
+    strokeLength: 150
+    angle: 0

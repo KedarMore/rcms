@@ -1,0 +1,15 @@
+em: 
+  blanket_grids: 5
+
+  # cost added to each robot in one second
+  weighting_cost: 0.4
+  # cost added as function of robot velocity
+  # lower the cost, more preference is given to
+  # robot, cost is v_robot/v_weight
+  v_weight: 1.25
+
+  # importance given to feeder robot, proportionate
+  feeder_weight: 2
+
+  # loading weight, unloaded robots are given zero extra wait
+  loading_weight: 1

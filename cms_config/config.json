@@ -1,0 +1,29 @@
+{
+
+    "fastApi":{
+        "host":"0.0.0.0",
+        "port":8006
+    },
+    "logFileDir":"log/system/",
+    "cbsDataLog":"log/cbsData",
+    "loadParamFiles":"log/config",
+    "maxThreads":20,
+    "threadTimeout":200,
+    "retryTimer":10,
+    "filenameDir":true,
+    "CBS_URLs":{
+        "baseUrl":"http://cbs_container:8001/",
+        "getFileNamesEndpoint":"cms/v2/rcs/get-rcs-config",
+        "getFileData":"cms/v2/rcs/get-rcs-config",
+        "getErrorData": "cms/v2/error/fetch-errors-list"
+
+    },
+    "retryAPI":{
+        "stop_after_attempt" : 90,
+        "multiplier": 2,
+        "min": 20,
+        "max": 80
+    }
+}
+
+

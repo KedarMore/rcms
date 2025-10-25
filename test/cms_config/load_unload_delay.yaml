@@ -1,0 +1,32 @@
+# wait times during loading and unloading
+# loading_time: 0.2 #[0.2, 2sec turn], [1.2, 1sec turn]
+no_of_feeder_position: 2
+
+per_feeder_PPH: 1500
+coupled_feeder: {"feeder_1": ["feeder_1","feeder_2"], 
+                 "feeder_2": ["feeder_1","feeder_2"]
+                #  "feeder_3": ["feeder_3","feeder_4"], 
+                #  "feeder_4": ["feeder_3","feeder_4"],
+                #  "feeder_5": ["feeder_5","feeder_6"], 
+                #  "feeder_6": ["feeder_5","feeder_6"],
+                #  "feeder_7": ["feeder_7","feeder_8"],
+                #  "feeder_8": ["feeder_7","feeder_8"], 
+                #  "feeder_9": ["feeder_9","feeder_10"],
+                #  "feeder_10": ["feeder_9","feeder_10"], 
+                #  "feeder_11": ["feeder_11","feeder_12"],
+                #  "feeder_12": ["feeder_11","feeder_12"] 
+                 }
+
+
+coupled_feeder_mapping: {"feeder_1": 2, "feeder_2": 1} 
+
+queue_size: {"feeder_1": 2, "feeder_2": 2}
+
+# coupled_feeder_mapping: {"feeder_1": 2, "feeder_2": 1, "feeder_3": 4, "feeder_4": 3, "feeder_5": 6, "feeder_6": 5, "feeder_7": 8, "feeder_8": 7, "feeder_9": 10, "feeder_10": 9, "feeder_11": 12, "feeder_12": 11} 
+
+# queue_size: {"feeder_1": 3, "feeder_2": 3, "feeder_3": 3, "feeder_4": 3, "feeder_5": 3, "feeder_6": 3, "feeder_7": 3, "feeder_8": 3, "feeder_9": 3, "feeder_10": 3, "feeder_11": 3, "feeder_12": 3}
+
+unloading_time_level0: 1
+unloading_time_level1: 3
+unloading_time_level2: 5
+unloading_time_level3: 6
